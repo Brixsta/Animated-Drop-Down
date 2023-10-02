@@ -6,4 +6,4 @@
 - Practice making an animated drop down
 - Used nested divs to create the effect
 - No button elements
-- overflow hidden to allow for height expansion/contraction
+- Overflow hidden to allow for height expansion/contraction
